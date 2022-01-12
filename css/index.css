@@ -34,7 +34,7 @@
         -webkit-text-fill-color:#F4B100;
         -webkit-text-stroke-width: 6px;
         -webkit-text-stroke-color: #F4B100;
-        text-shadow: 6px 6px 5px #000000;
+        text-shadow: 6px 6px 1px #000000;
 }
 
 .text-container #outputn{
@@ -47,7 +47,7 @@
         -webkit-text-fill-color:#F4B100;
         -webkit-text-stroke-width: 6px;
         -webkit-text-stroke-color: #F4B100;
-        text-shadow: 6px 6px 5px #000000;
+        text-shadow: 6px 6px 1px #000000;
 }
 #creditinfo {
     color:whitesmoke;
