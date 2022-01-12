@@ -1,4 +1,4 @@
-:snowflake: Code Repository for http://www.isitsnowinginnyc.com
+:snowflake: Code Repository for https://www.isitsnowinginnyc.com
 
 Utilizing OpenWeatherMap API in JS to check if its snowing in New York City.
 
